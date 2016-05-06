@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/dojo-release-1.1.1/dojox,WebRoot/dojo-release-1.1.1/dojo,WebRoot/dojo-release-1.1.1/dijit
+validator.Revalidate=true
+validator.Unchecked=
